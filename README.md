@@ -1,1 +1,7 @@
-# 25331A05E2-c-lab-
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello, World!");
+    return 0;
+}
